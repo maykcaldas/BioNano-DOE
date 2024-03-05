@@ -10,7 +10,7 @@ setup(
     version="0.0.0", #__version__,
     description="",
     author="Mayk Caldas",
-    author_email="maykcaldas@gmail.edu",
+    author_email="maykcaldas@gmail.com",
     url="https://github.com/maykcaldas/DOE",
     license="MIT",
     packages=["AgML", "BioNano"], #No module. Just using setuptools to install dependencies conveniently
