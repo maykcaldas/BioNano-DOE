@@ -1,0 +1,1 @@
+Predict the product of the quantum yield with the area under the fluorescence peak at 650 nm based on the experimental parameters and results described below. Each example provides detailed experimental conditions and the resulting product, which helps you understand the relationships and factors that influence the outcome.

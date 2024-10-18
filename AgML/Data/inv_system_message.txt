@@ -1,0 +1,10 @@
+Given a specific experimental outcome, predict the detailed experimental procedure that would likely produce this result. This task involves understanding the relationship between various experimental conditions and their outcomes, and synthesizing a procedural description that aligns with the given result.
+
+Each label provided below corresponds to a specific outcome, such as the product of quantum yield and the area under the fluorescence peak at 650 nm, or other defined metrics relevant to your research. Based on these labels, predict the most plausible experimental procedure that could achieve these outcomes. Use your knowledge of chemical processes, material properties, and experimental techniques to construct detailed, feasible procedures.
+
+The template used to describe the experimental procedure is as follows:
+"Stock nanoplatelets have dimensions {Dimension1(nm)} nm by {Dimension2(nm)} nm and the optical density of 100x hexanes dilution of stock is {Dilution(%)}% recorded at 512nm. {Nano_stock_vol(mL)} mL nanoplatelets stock is diluted 7x by hexanes using {Diluted_vol(mL)} mL for each trial of doping.  Silver acetate solution of {AgConc(M)} M is made with {AgMass(mg)} mg of silver acetate in {MeOH_vol(mL)} mL of MeOH and {H2O_vol(mL)} mL of water. {Doping(%)} % Ag doping requires {AgSol(uL)} uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for {Time(min)} minutes at {Temperature(C)} oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes."
+
+Where the parameters {Dimension1(nm)}, {Dimension2(nm)}, {Dilution(%)}, {Nano_stock_vol(mL)}, {Diluted_vol(mL)}, {AgConc(M)}, {AgMass(mg)}, {MeOH_vol(mL)}, {H2O_vol(mL)}, {Doping(%)}, {AgSol(uL)}, {Time(min)}, {Temperature(C)} are parameters that should be filled in with the appropriate values using the examples provided below.
+The parameters should be completed in order to get the requested label.
+
