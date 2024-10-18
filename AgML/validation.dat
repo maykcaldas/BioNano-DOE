@@ -1,0 +1,42 @@
+##### Low labels #####   
+ ------------ [index: 2] ------------
+  prompt: Stock nanoplatelets have dimensions 35.064 nm by 8.954 nm and the optical density of 100x hexanes dilution of stock is 0.150% recorded at 512 nm. 0.250 mL nanoplatelets stock is diluted 7x by hexanes using 1.750 mL for each trial of doping. Silver acetate solution of 0.00600 M is made with 3.500 mg of silver acetate in 2.496 mL of MeOH and 0.999 mL of water. 5.000 % Ag doping requires 6.768 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 10.0 minutes at 0.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.02024 +/- 0.013806896827310618
+
+  ------------ [index: 4] ------------
+  prompt: Stock nanoplatelets have dimensions 26.437 nm by 8.291 nm and the optical density of 100x hexanes dilution of stock is 0.150% recorded at 512 nm. 0.500 mL nanoplatelets stock is diluted 7x by hexanes using 3.500 mL for each trial of doping. Silver acetate solution of 0.00070 M is made with 3.500 mg of silver acetate in 21.397 mL of MeOH and 8.559 mL of water. 5.000 % Ag doping requires 80.991 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 10.0 minutes at 50.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.024 +/- 0.008
+
+  ------------ [index: 23] ------------
+  prompt: Stock nanoplatelets have dimensions 26.577 nm by 5.418 nm and the optical density of 100x hexanes dilution of stock is 0.150% recorded at 512 nm. 0.500 mL nanoplatelets stock is diluted 7x by hexanes using 3.500 mL for each trial of doping. Silver acetate solution of 0.00070 M is made with 3.500 mg of silver acetate in 21.397 mL of MeOH and 8.559 mL of water. 5.000 % Ag doping requires 53.209 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 60.0 minutes at 0.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.03320000000000001 +/- 0.016277591959500647
+
+
+  ##### Middle labels ##### 
+
+  ------------ [index: 950] ------------
+  prompt: Stock nanoplatelets have dimensions 26.577 nm by 5.418 nm and the optical density of 100x hexanes dilution of stock is 0.300% recorded at 512 nm. 0.500 mL nanoplatelets stock is diluted 7x by hexanes using 3.500 mL for each trial of doping. Silver acetate solution of 0.00070 M is made with 3.500 mg of silver acetate in 21.397 mL of MeOH and 8.559 mL of water. 5.000 % Ag doping requires 106.418 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 10.0 minutes at 50.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.244 +/- 0.048414873747640814
+
+  ------------ [index: 953] ------------
+  prompt: Stock nanoplatelets have dimensions 26.437 nm by 8.291 nm and the optical density of 100x hexanes dilution of stock is 0.150% recorded at 512 nm. 0.500 mL nanoplatelets stock is diluted 7x by hexanes using 3.500 mL for each trial of doping. Silver acetate solution of 0.00600 M is made with 3.500 mg of silver acetate in 2.496 mL of MeOH and 0.999 mL of water. 2.000 % Ag doping requires 3.780 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 180.0 minutes at 0.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.252 +/- 0.09130169768410663
+
+  ------------ [index: 962] ------------
+  prompt: Stock nanoplatelets have dimensions 35.064 nm by 8.954 nm and the optical density of 100x hexanes dilution of stock is 0.300% recorded at 512 nm. 0.500 mL nanoplatelets stock is diluted 7x by hexanes using 3.500 mL for each trial of doping. Silver acetate solution of 0.00600 M is made with 7.800 mg of silver acetate in 5.563 mL of MeOH and 2.225 mL of water. 2.000 % Ag doping requires 10.829 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 60.0 minutes at 50.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.32 +/- 0.03886070096085521
+
+  ##### High labels ##### 
+
+  ------------ [index: 965] ------------
+  prompt: Stock nanoplatelets have dimensions 26.577 nm by 5.418 nm and the optical density of 100x hexanes dilution of stock is 0.150% recorded at 512 nm. 0.250 mL nanoplatelets stock is diluted 7x by hexanes using 1.750 mL for each trial of doping. Silver acetate solution of 0.00600 M is made with 14.000 mg of silver acetate in 9.985 mL of MeOH and 3.994 mL of water. 5.000 % Ag doping requires 3.104 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 60.0 minutes at 0.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.468 +/- 0.003999999999999982
+  
+ ------------ [index: 964] ------------
+  prompt: Stock nanoplatelets have dimensions 26.437 nm by 8.291 nm and the optical density of 100x hexanes dilution of stock is 0.150% recorded at 512 nm. 0.500 mL nanoplatelets stock is diluted 7x by hexanes using 3.500 mL for each trial of doping. Silver acetate solution of 0.00600 M is made with 7.800 mg of silver acetate in 5.563 mL of MeOH and 2.225 mL of water. 10.000 % Ag doping requires 18.898 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 10.0 minutes at 25.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.44600000000000006 +/- 0.008000000000000007
+
+  ------------ [index: 962] ------------
+  prompt: Stock nanoplatelets have dimensions 35.064 nm by 8.954 nm and the optical density of 100x hexanes dilution of stock is 0.300% recorded at 512 nm. 0.500 mL nanoplatelets stock is diluted 7x by hexanes using 3.500 mL for each trial of doping. Silver acetate solution of 0.00600 M is made with 7.800 mg of silver acetate in 5.563 mL of MeOH and 2.225 mL of water. 2.000 % Ag doping requires 10.829 uL of silver doping solution, respectively. The reaction was performed at 1000 rpm for 60.0 minutes at 50.000 oC. Fluorescence of each doped sample was collected as a 30x dilution with hexanes.
+  prediction: 0.32 +/- 0.03886070096085521
+  
