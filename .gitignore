@@ -9,7 +9,6 @@ __pycache__/
 # Generated data files
 *.csv
 *.pkl
-*.txt
 
 # Distribution / packaging
 .Python
