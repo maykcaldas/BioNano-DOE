@@ -19,7 +19,7 @@ setup(
         'pandas',
         'xgboost',
         'scikit-learn',
-        'bolift@git+https://github.com/ur-whitelab/BO-LIFT.git',
+        'bolift@git+https://github.com/ur-whitelab/BO-LIFT.git@dev',
         'dash',
         'matplotlib',
         'plotly',
