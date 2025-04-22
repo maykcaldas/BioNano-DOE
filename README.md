@@ -12,10 +12,10 @@ Repository with the code base for the BioNano project under development at the U
 To run all the notebooks the main packages used are Ax, BO-LIFT and their dependencies which include torch, botorch.
 You can install them separately, or install using the requirements.yml file from this repo. To install individually, you can check their documentations at [Ax](ax.dev) and [BO-ICL](https://github.com/ur-whitelab/BO-LIFT)
 
-``
+```
 conda env create -f requirements.yml -n my_env_name
 conda activate my_env_name
-``
+```
 ## Preprocessing data
 
 ## GPRs with [Ax](https://ax.dev)
