@@ -19,6 +19,6 @@ conda activate my_env_name
 
 
 ## GPRs with [Ax](https://ax.dev)
-See ![notebook](https://github.com/maykcaldas/BioNano-DOE/blob/main/AgML/BOOptimizationwAx.ipynb)
+See [notebook](https://github.com/maykcaldas/BioNano-DOE/blob/main/AgML/BOOptimizationwAx.ipynb)
 ## SHAP Analysis
-See ![notebook](https://github.com/maykcaldas/BioNano-DOE/blob/main/AgML/Interpretability%26Promptseval.ipynb) for more its implementation. 
+See [notebook](https://github.com/maykcaldas/BioNano-DOE/blob/main/AgML/Interpretability%26Promptseval.ipynb) for more its implementation. 
