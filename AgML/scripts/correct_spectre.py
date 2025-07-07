@@ -14,9 +14,9 @@ def gauss2(x, a1, b1, c1, a2, b2, c2):
             a2 * np.exp(-((x - b2) ** 2) / (2 * c2 ** 2)))
 
 def main():
-    mat = loadmat('./Data/NormFLEff.mat')
+    mat = loadmat('../Data/NormFLEff.mat')
     FLEff = mat['FLEff']
-    dirs = ["./Data/proposed_trials/NLP"]
+    dirs = ["../Data/proposed_trials/NLP"]
     fitS, fitE = 441, 800
 
     for directory in dirs:
