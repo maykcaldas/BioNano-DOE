@@ -16,12 +16,12 @@ def gauss2(x, a1, b1, c1, a2, b2, c2):
 def main():
     mat = loadmat('./Data/NormFLEff.mat')
     FLEff = mat['FLEff']
-    dirs = ["./Data/proposed_trials/NLP2"]
+    dirs = ["./Data/proposed_trials/NLP"]
     fitS, fitE = 441, 800
 
     for directory in dirs:
         files = sorted(os.listdir(directory))
-        files = [file for file in files if "M4" in file and "corrected" not in file]
+        files = [file for file in files if "ICL" in file and "corrected" not in file and "txt" in file]
         GPk = np.ones(len(files))  # All assume two peaks; change if needed
 
         print(f"Processing {len(files)} files in '{directory}'...")
@@ -29,7 +29,7 @@ def main():
         for ind in tqdm(range(len(files)), desc="Correcting spectra"):
             file = files[ind]
             path = os.path.join(directory, file)
-            tmp = pd.read_csv(path, sep='\t').to_numpy()
+            tmp = pd.read_csv(path, sep=',').to_numpy()
             WLS = tmp[:, 0]
             bkg = np.mean(tmp[:35, 1])
             S = tmp[:, 1] - bkg
