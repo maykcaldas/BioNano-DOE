@@ -7,6 +7,6 @@ Scripts that replicate what is done in the notebooks for preprocessing and analy
     2) It corrects with the corresponding correction factor
     3) Smooths the curves with gaussian approaximation
        
-- get_objective)values.py: Script used to get the labels for optimization
+- get_objective_values.py: Script used to get the labels for optimization
 
 - make_bo_prompts.py: Script used to make prompts from the experimental features
