@@ -6,8 +6,8 @@ from tqdm import tqdm
 from utill_functions import smooth_spectrum, get_area_under_peaks, process_spectrum
 
 # Paths
-fluorescence_dir = "/Users/jorgemedina/BioNano-DOE/AgML/Data/proposed_trials/NLP2"
-absorbance_dir = "./Data/proposed_trials/NLP"
+fluorescence_dir = "../Data/proposed_trials/NLP"
+absorbance_dir = "../Data/proposed_trials/NLP"
 
 # Get list of fluorescence and absorbance files
 fluo_files = sorted([f for f in os.listdir(fluorescence_dir) if f.endswith(".txt") and "corrected" in f])
@@ -64,8 +64,8 @@ for i, (txt, csv) in enumerate(tqdm(zip(fluo_files, abs_files), total=len(fluo_f
 #now the same but with Data/proposed_trials/BO
 
 # Get list of fluorescence and absorbance files
-fluorescence_dir = "./Data/proposed_trials/BO"
-absorbance_dir = "./Data/proposed_trials/BO"
+fluorescence_dir = "../Data/proposed_trials/BO"
+absorbance_dir = "../Data/proposed_trials/BO"
 # Get list of fluorescence and absorbance files
 fluo_files = sorted([f for f in os.listdir(fluorescence_dir) if f.endswith(".txt") and "corrected" in f])
 abs_files = sorted([f for f in os.listdir(absorbance_dir) if f.endswith(".csv")])
